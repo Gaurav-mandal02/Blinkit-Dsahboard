@@ -1,4 +1,4 @@
-# Blinkit-Dsahboad
+# Blinkit-Dsahboad (PowerBI)
 
 * Designed an interactive Power BI dashboard analyzing  grocery sales 
 trends across outlets. 
